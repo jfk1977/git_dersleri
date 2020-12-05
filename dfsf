@@ -1,0 +1,52 @@
+[1mdiff --git a/cikarma.docx b/cikarma.docx[m
+[1mindex d36c38c..9c1c9e6 100644[m
+[1m--- a/cikarma.docx[m
+[1m+++ b/cikarma.docx[m
+[36m@@ -1 +1 @@[m
+[31m-5-2=3[m
+[32m+[m
+[1mdiff --git a/mein_project.docx b/mein_project.docx[m
+[1mindex fdc8fe9..741f17d 100644[m
+[1m--- a/mein_project.docx[m
+[1m+++ b/mein_project.docx[m
+[36m@@ -1,4 +1,4 @@[m
+[31m-İlk commit, 2020[m
+[32m+[m[32mSondan bir önce commit, 2020[m
+ [m
+ Hello,[m
+ [m
+[1mdiff --git "a/tat\304\261" "b/tat\304\261"[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e548ac9[m
+[1m--- /dev/null[m
+[1m+++ "b/tat\304\261"[m
+[36m@@ -0,0 +1,29 @@[m
+[32m+[m[32m[33mcommit 311586ae0908bb1fd88c8b993a6764c733485302[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m[m
+[32m+[m[32mAuthor: Ferhat Koyuncu <datascience.fk@gmail.com>[m
+[32m+[m[32mDate:   Sat Dec 5 02:24:35 2020 +0100[m
+[32m+[m
+[32m+[m[32m    ekleme yapıldı[m
+[32m+[m
+[32m+[m[32m[33mcommit c65c964f4b0badcc079462d99ea8dd94f45bf6d8[m[m
+[32m+[m[32mAuthor: Ferhat Koyuncu <datascience.fk@gmail.com>[m
+[32m+[m[32mDate:   Sat Dec 5 02:20:25 2020 +0100[m
+[32m+[m
+[32m+[m[32m    mein projekt tekrar[m
+[32m+[m
+[32m+[m[32m[33mcommit 96808a4a8ecebc2e8dc163fa26f387107a785aa0[m[m
+[32m+[m[32mAuthor: Ferhat Koyuncu <datascience.fk@gmail.com>[m
+[32m+[m[32mDate:   Sat Dec 5 02:18:44 2020 +0100[m
+[32m+[m
+[32m+[m[32m    bölme ve carpma eklendi[m
+[32m+[m
+[32m+[m[32m[33mcommit bf80a4db8e697240ee5e33002f22e7f9f690d1fd[m[m
+[32m+[m[32mAuthor: Ferhat Koyuncu <datascience.fk@gmail.com>[m
+[32m+[m[32mDate:   Sat Dec 5 02:09:51 2020 +0100[m
+[32m+[m
+[32m+[m[32m    cikarma metodu eklendi[m
+[32m+[m
+[32m+[m[32m[33mcommit b1128e68679c6d4b094ef3920d052459a647ebff[m[m
+[32m+[m[32mAuthor: Ferhat Koyuncu <datascience.fk@gmail.com>[m
+[32m+[m[32mDate:   Sat Dec 5 01:55:33 2020 +0100[m
+[32m+[m
+[32m+[m[32m    ilk commit[m
